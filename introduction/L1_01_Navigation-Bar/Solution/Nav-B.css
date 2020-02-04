@@ -1,0 +1,15 @@
+nav {
+    background:darkblue;
+          
+}
+ul,body{
+    margin: 0;
+}
+nav ul li a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+nav ul li{
+    display: inline-block;
+    margin: 10px;
+}
